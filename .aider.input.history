@@ -1,0 +1,9 @@
+
+# 2026-10-28 20:46:00.629074
++aider --model ollama_chat/qwen2.5-coder:14baider --model ollama_chat/qwen2.5-coder:14bn
+
+# 2026-10-28 20:46:07.919336
++n
+
+# 2026-10-28 20:46:36.678512
++/exit
